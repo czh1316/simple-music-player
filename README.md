@@ -1,15 +1,16 @@
-# 🎵 Music Player
+# 🎵 Simple Music Player
 
-## 功能
-- 播放/暂停
-- 本地音乐选择
+A simple desktop music player built with Python.
 
-## 技术栈
+## Features
+- Play / Pause
+- Playlist support
+- Next / Previous track
+
+## Tech Stack
 - Python
 - tkinter
 - pygame
-
-## 运行
+## Run
 pip install -r requirements.txt
-
 python main.py
